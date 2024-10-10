@@ -1,16 +1,16 @@
-<h2 align="center">Hey 👋 What's up?</h2>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
-<p align="center">Hello! Nittish this side !! . I am a passionate and driven 2nd-year student at Bhagwan Parshuram Institute of Technology, currently pursuing a B.Tech in Information Technology. With a strong foundation in web development, I am proficient in both frontend and backend technologies. My expertise spans across various frameworks and tools, including ReactJS, NodeJS, and Bootstrap, as well as databases like MongoDB and SQL.</p>
+<p align="left">Hello! Nittish this side !! . I am a passionate and driven 2nd-year student at Bhagwan Parshuram Institute of Technology, currently pursuing a B.Tech in Information Technology. With a strong foundation in web development, I am proficient in both frontend and backend technologies. My expertise spans across various frameworks and tools, including ReactJS, NodeJS, and Bootstrap, as well as databases like MongoDB and SQL.</p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning FULL STACK WEB DEVELOPMENT<br>🎯 Goals: Land a job<br>🎲 Fun fact: I am a fun fact myself</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning FULL STACK WEB DEVELOPMENT<br>🎯 Goals: Land a job<br>🎲 Fun fact: I am a fun fact myself</p>
 
 ###
 
