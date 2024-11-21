@@ -10,10 +10,7 @@
 JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
 ##
 ## Connect with me
-
-[![Instagram]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge))]([https://t.me/AJTimePyro](https://www.instagram.com/nittish_baboria))
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajtimepyro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtimepyro/)
+<a href="https://www.instagram.com/nittish_baboria"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 
 <h2 align="center">I code with</h2>
 
