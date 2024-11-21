@@ -20,6 +20,7 @@
 ###
 
 <div align="center">
+
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -45,7 +46,8 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+        <a href="https://github.com/nittish03" target="_blank">  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> </a>
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
