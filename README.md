@@ -12,6 +12,8 @@ JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
 ## Connect with me
 <a target="_blank" href="https://www.instagram.com/nittish_baboria"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a target="_blank" href="mailto:nittishbaboria123@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a target="_blank" href="www.linkedin.com/in/nittish-baboria">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
+<a target="_blank" href="https://wa.me/917006930270?text=Hello%2C%20Nittish%20this%20side">     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /> </a>
 
 <h2 align="center">I code with</h2>
 
