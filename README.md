@@ -46,7 +46,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-        <a href="https://github.com/nittish03" target="_blank">  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> </a>
+        <a href="https://github.com/nittish03" target="blank">  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> </a>
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
