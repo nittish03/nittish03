@@ -9,7 +9,7 @@
 - Skills: Next-js, MongoDB, React-js, Express-js, Node-js, Bootstrap, JSX, Mongoose, APIs, Github, JAVA, C++,
 JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
 ##
-## Connect with me
+## Connect with me / My Social Handles
 <a target="_blank" href="https://www.instagram.com/nittish_baboria"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a target="_blank" href="mailto:nittishbaboria123@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 <a target="_blank" href="www.linkedin.com/in/nittish-baboria">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
