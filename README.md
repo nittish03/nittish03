@@ -10,7 +10,7 @@
 JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
 ##
 ## Connect with me
-<a href="https://www.instagram.com/nittish_baboria"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<a target="_blank" href="https://www.instagram.com/nittish_baboria"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 
 <h2 align="center">I code with</h2>
 
