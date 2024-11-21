@@ -4,10 +4,10 @@
 
 ## Techincal Skills
 - 🌐 FullStack Web Developer (NextJS, ReactJS, ExpressJS, NodeJS, TailwindCSS, MongoDB)
-- Languages: HTML, CSS, JavaScript, Java, JSX, C/C++, SQL
-- Frameworks: Next-js, React-js, Node.js, Tailwind-CSS, Bootstrap, Express.js
-- Skills: Next-js, MongoDB, React-js, Express-js, Node-js, Bootstrap, JSX, Mongoose, APIs, Github, JAVA, C++,
-JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
+- 🌆 Languages: HTML, CSS, JavaScript, Java, JSX, C/C++, SQL
+- 🪟 Frameworks: Next-js, React-js, Node.js, Tailwind-CSS, Bootstrap, Express.js
+- 🤹 Skills: Next-js, MongoDB, React-js, Express-js, Node-js, Bootstrap, JSX, Mongoose, APIs, Github, JAVA, C++,
+      JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
 ##
 ## Connect with me / My Social Handles
 <a target="_blank" href="https://www.instagram.com/nittish_baboria"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
