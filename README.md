@@ -15,7 +15,7 @@
 <a target="_blank" href="www.linkedin.com/in/nittish-baboria">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
 <a target="_blank" href="https://wa.me/917006930270?text=Hello%2C%20Nittish%20this%20side">     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /> </a>
 
-<h2 align="center">I code with</h2>
+<h2 align="center">Languages and tools I use</h2>
 
 ###
 
