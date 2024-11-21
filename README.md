@@ -1,10 +1,19 @@
-<h2 align="left">Hey 👋 What's up?</h2>
+<h2 align="left">Hey there👋 Nittish this side 👨‍💻</h2>
 
 ###
 
-<p align="left">Hello! Nittish this side !! . I am a passionate and driven 2nd-year student at Bhagwan Parshuram Institute of Technology, currently pursuing a B.Tech in Information Technology. With a strong foundation in web development, I am proficient in both frontend and backend technologies. My expertise spans across various frameworks and tools, including ReactJS, NodeJS, and Bootstrap, as well as databases like MongoDB and SQL.</p>
-
+## Techincal Skills
+- 🌐 FullStack Web Developer (NextJS, ReactJS, ExpressJS, NodeJS, TailwindCSS, MongoDB)
+- Languages: HTML, CSS, JavaScript, Java, JSX, C/C++, SQL
+- Frameworks: Next-js, React-js, Node.js, Tailwind-CSS, Bootstrap, Express.js
+- Skills: Next-js, MongoDB, React-js, Express-js, Node-js, Bootstrap, JSX, Mongoose, APIs, Github, JAVA, C++,
+JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
 ##
+## Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AJTimePyro)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajtimepyro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtimepyro/)
 
 <h2 align="center">I code with</h2>
 
@@ -56,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img href="www.linkedin.com/in/nittish-baboria" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
