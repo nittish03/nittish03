@@ -3,7 +3,7 @@
 ###
 
 ## Techincal Skills
-- 🌐 FullStack Web Developer (NextJS, ReactJS, ExpressJS, NodeJS, TailwindCSS, MongoDB)
+- 🌐 FullStack Developer (NextJS, ReactJS, ExpressJS, NodeJS, TailwindCSS, MongoDB)
 - 🌆 Languages: HTML, CSS, JavaScript, Java, JSX, C/C++, SQL
 - 🪟 Frameworks: Next-js, React-js, Node.js, Tailwind-CSS, Bootstrap, Express.js
 - 🤹 Skills: Next-js, MongoDB, React-js, Express-js, Node-js, Bootstrap, JSX, Mongoose, APIs, Github, JAVA, C++,
