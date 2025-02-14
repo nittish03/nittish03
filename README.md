@@ -41,6 +41,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+
+
+  <br/>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -51,9 +54,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   <img width="12" />
-
-  <br/>
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
