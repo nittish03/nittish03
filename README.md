@@ -51,7 +51,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="cplusplus logo"  />
+
+  <br/>
+    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -59,7 +61,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
         <a href="https://github.com/nittish03" target="_blank">  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> </a>
