@@ -2,15 +2,21 @@
 
 ###
 
-## Techincal Skills
+## 👨‍💻 About Me
+- 🔭 Aspiring Full Stack Web Developer & Software Engineer
+- 🎓 2nd-year B.Tech IT Student
+- 🚀 Passionate about Full Stack Development & DSA in Java
+- 📍 Focusing on India (Delhi) for pollution & weather-related app features
 
-- 🌐 FullStack Developer (NextJS, ReactJS, ExpressJS, NodeJS, TailwindCSS, MongoDB)
-- 🌆 Languages: HTML, CSS, JavaScript, Java, JSX, C/C++, SQL
-- 🪟 Frameworks: Next-js, React-js, Node.js, Tailwind-CSS, Bootstrap, Express.js
-- 🤹 Skills: Next-js, MongoDB, React-js, Express-js, Node-js, Bootstrap, JSX, Mongoose, APIs, Github, JAVA, C++,
-  JavaScript, Html, CSS, Full-Stack-Web-Development, Tailwind-CSS, Vite
+---
 
-##
+## 🛠 Techincal Skills
+- 🌐 **FullStack Developer** (Next.js, React.js, Express.js, Node.js, Tailwind CSS, MongoDB)
+- 🌆 **Languages:** HTML, CSS, JavaScript, TypeScript, Java, JSX, C/C++, SQL
+- 🪟 **Frameworks:** Next.js, React.js, Node.js, Tailwind CSS, Bootstrap, Express.js
+- 🤹 **Skills:** MongoDB, Prisma, Mongoose, APIs, GitHub, Vite, Deployment, IntelliJ, PostgreSQL
+
+---
 
 ## Connect with me / My Social Handles
 
