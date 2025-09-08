@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Aspiring Full Stack Web Developer & Software Engineer
-- 🎓 2nd-year B.Tech IT Student
+- 🎓 3rd-year B.Tech IT Student
 - 🚀 Passionate about Full Stack Development & DSA in Java
 - 📍 Focusing on India (Delhi) for pollution & weather-related app features
 
