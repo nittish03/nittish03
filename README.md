@@ -85,7 +85,3 @@
 </div>
 
 ---
-
-## Top Languages Used
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nittish03&layout=pie)
