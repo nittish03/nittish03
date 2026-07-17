@@ -3,18 +3,18 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Aspiring Full Stack Web Developer & Software Engineer
-- 🎓 3rd-year B.Tech IT Student
-- 🚀 Passionate about Full Stack Development & DSA in Java
-- 📍 Focusing on India (Delhi) for pollution & weather-related app features
+- 💼 Full Stack Developer | Core Team @ Eshway
+- 🎓 3rd-year B.Tech Information Technology Student
+- 🚀 Passionate about Full Stack Development, Backend Engineering & DSA in Java
+- 🌱 Currently exploring AI Applications, RAG Systems & Scalable Backend Architectures
 
 ---
 
-## 🛠 Techincal Skills
-- 🌐 **FullStack Developer** (Next.js, React.js, Express.js, Node.js, Tailwind CSS, MongoDB)
-- 🌆 **Languages:** HTML, CSS, JavaScript, TypeScript, Java, JSX, C/C++, SQL
-- 🪟 **Frameworks:** Next.js, React.js, Node.js, Tailwind CSS, Bootstrap, Express.js
-- 🤹 **Skills:** MongoDB, Prisma, Mongoose, APIs, GitHub, Vite, Deployment, IntelliJ, PostgreSQL
+## 🛠 Technical Skills
+- 🌐 **Full Stack Development:** Next.js, React.js, Node.js, Express.js, FastAPI, Tailwind CSS
+- 💻 **Languages:** Java, JavaScript, TypeScript, HTML, CSS, SQL, C/C++
+- ⚙️ **Backend & Databases:** PostgreSQL, MongoDB, MySQL, Prisma, Mongoose, Redis
+- 🧪 **Tools & Testing:** Git, GitHub, REST APIs, API Testing, Functional Testing, Integration Testing, Regression Testing, Vite, VS Code, IntelliJ IDEA
 
 ---
 
