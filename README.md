@@ -10,6 +10,19 @@
 
 ---
 
+
+---
+
+## 🚀 Live Ventures & Agency Platforms
+- 🌐 **[NB03 Digital Growth Agency](https://digital.nittish.in/)** — Leading full-stack web engineering & triple-tier search optimization (SEO + AEO + GEO).
+  - 🇦🇪 **[Best SEO Agency in Dubai & Abu Dhabi](https://digital.nittish.in/dubai)** — Sub-second Next.js platforms, bilingual Arabic/English SEO, and UAE enterprise growth.
+  - 🇨🇦 **[Best SEO Agency in Canada](https://digital.nittish.in/canada)** — Next.js web applications, AI portals, and B2B search dominance across North America.
+  - 🇮🇳 **[Best SEO Agency in Maharashtra: Mumbai & Pune](https://digital.nittish.in/maharashtra)** — #1 Google ranking systems, Local 3-Pack, and Core Web Vitals optimization.
+  - 🤖 **[Insta-Bot Instagram Automation](https://instabot.nittish.in/)** & **[BotWorks WhatsApp Bot](https://whatsappbot.nittish.in/)** — Zero-quota browser & Cloud API automation engines.
+  - 📊 **[Instant Web Development Cost Estimator](https://digital.nittish.in/estimate)** — 60-second interactive project estimator.
+
+---
+
 ## 🛠 Technical Skills
 - 🌐 **Full Stack Development:** Next.js, React.js, Node.js, Express.js, FastAPI, Tailwind CSS
 - 💻 **Languages:** Java, JavaScript, TypeScript, HTML, CSS, SQL, C/C++
