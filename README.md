@@ -4,7 +4,6 @@
 
 ## 👨‍💻 About Me
 - 💼 Full Stack Developer | Core Team @ Eshway
-- 🎓 3rd-year B.Tech Information Technology Student
 - 🚀 Passionate about Full Stack Development, Backend Engineering & DSA in Java
 - 🌱 Currently exploring AI Applications, RAG Systems & Scalable Backend Architectures
 
